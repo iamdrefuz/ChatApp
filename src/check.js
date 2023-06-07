@@ -4,5 +4,7 @@ export const userAdmin = [
       'f6j1j7vH4tVBR3bfUSTRyDm2JC42',//user
       'Xag7LYfmySc0kBBflDXlUt1g8HK2',//support
       'yEIkAK0EvkX4f0dlylwgjfMk7JH2',
-      '6IhYSmzpLhSInzDZKXJmFj4HNQH2'
+      '6IhYSmzpLhSInzDZKXJmFj4HNQH2',
+      'fMhhpdfGYkReCz5TQQMuIStCujx1',
+      'uqREZ29LxiVZzYKlpgN3gfv0cXG2'
     ]//     {
