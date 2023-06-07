@@ -712,13 +712,13 @@ $bgcolor:linear-gradient(to right, #23598c, #427ecd); /* W3C, IE 10+/ Edge, Fire
                 }
                 background-color: transparent;
                 border: none;
-                color: white;
+                color: black;
                 outline: none;
                 border: 1px solid;
                 padding:5px;
                 border-radius: 5px;
                 &::placeholder {
-                  color: lightgray;
+                  color: rgb(31, 29, 29);
                 }
               }
               button{
